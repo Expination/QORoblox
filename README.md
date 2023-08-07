@@ -1,5 +1,7 @@
 # QORoblox
 
+Download is in Releases!
+
 What is QORoblox?
 QORoblox is a texturepack for Roblox centered around quality-of-life changes, fixes certain 
 textures, sound adjustments and more!
