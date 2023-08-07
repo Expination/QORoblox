@@ -10,7 +10,7 @@ textures, sound adjustments and more!
 This is assuming that you have already unzipped the .zip file
 
 1. Select all contents of the QORoblox folder by pressing CTRL+A
-2. Copy all contents (excluding this document) of the QORoblox folder ethier by CTRL+C or 
+2. Copy all contents (excluding the .pdf file in there) of the QORoblox folder ethier by CTRL+C or 
 the context menu by right clicking and pressing Copy
 3. Go to your latest Roblox version folder (look up how to if you don’t know what to do) 
 OR IF YOU USE BLOXSTRAP; Go to the Modifications folder of your Bloxstrap installation
